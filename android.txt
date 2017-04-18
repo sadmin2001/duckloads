@@ -1,0 +1,11 @@
+REM Simple script to test restarting an android device
+DELAY 1000
+CTRL-ALT DEL
+DELAY 100
+CTRL-ALT DEL
+DELAY 1000
+CTRL ALT DEL
+DELAY 1000
+CONTROL ALT DEL
+DELAY 500
+STRING y tha fuk aint u werk?
