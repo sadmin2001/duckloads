@@ -1,3 +1,5 @@
+REM This is a tool to start grabbing Wi-Fi handshakes from an attack antenna on the Kali Pi
+REM Sadmin 2017 for Null Byte
 DELAY 5000
 ALT F2
 DELAY 3000
